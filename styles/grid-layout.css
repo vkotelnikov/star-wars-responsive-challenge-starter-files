@@ -27,11 +27,10 @@
 /*Mobile layout*/
 .col-4{
 	width: 100%;
-	padding-bottom: 20px;
 }
 
 /*Desktop layout*/
-@media only screen and (min-width: 1000px){
+@media only screen and (min-width: 640px){
 	.col-4{
 		width: 33.33%;
 	}
